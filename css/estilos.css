@@ -6,12 +6,19 @@
     border: solid 1px rgb(0, 110, 129);
 }
 
+.estiloCiano:hover{
+    background-color: white;
+}
+
 .estiloRosa{
     background-color: pink;
     height: 30px;
     width: 30px;
     text-align: center;
     border: solid 1px rgb(255, 146, 164);
+}
+.estiloRosa:hover{
+    background-color: white;
 }
 
 .estiloCinza{
@@ -22,12 +29,20 @@
     border: solid 1px rgb(66, 66, 66);
 }
 
+.estiloCinza:hover{
+    background-color: white;
+}
+
 .estiloVermelho{
     background-color: red;
     height: 30px;
     width: 30px;
     text-align: center;
     border: solid 1px rgb(148, 0, 0);
+}
+
+.estiloVermelho:hover{
+    background-color: white;
 }
 
 .estiloLaranja{
@@ -38,12 +53,20 @@
     border: solid 1px rgb(175, 114, 0);
 }
 
+.estiloLaranja:hover{
+    background-color: white;
+}
+
 .estiloVerde{
     background-color: green;
     height: 30px;
     width: 30px;
     text-align: center;
     border: solid 1px rgb(0, 63, 0);
+}
+
+.estiloLetraVerde:hover{
+    background-color: white;
 }
 
 .estiloAmarelo{
@@ -54,12 +77,20 @@
     border: solid 1px rgb(141, 141, 0);
 }
 
+.estiloAmarelo:hover{
+    background-color: white;
+}
+
 .estiloRoxo{
     background-color: indigo;
     height: 30px;
     width: 30px;
     text-align: center;
     border: solid 1px rgb(29, 0, 49);
+}
+
+.estiloRoxo:hover{
+    background-color: white;
 }
 
 .estiloLetraAzul{
